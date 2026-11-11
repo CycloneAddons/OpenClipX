@@ -136,8 +136,8 @@ flowchart LR
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-openclipx-repo-url>
-cd ClipForge
+git clone https://github.com/CycloneAddons/OpenClipX
+cd OpenClipX
 ```
 
 ### 2. Install Node.js Dependencies
