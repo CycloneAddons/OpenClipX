@@ -46,7 +46,7 @@ Real `1080×1920` (`9:16`, 24 fps H.264 + AAC) Shorts generated locally by **Ope
 
 | English Original · Dynamic Reframing & Captions | Hindi AI-Dubbed · Multi-Speaker TTS + Devanagari Subtitles |
 | :---: | :---: |
-| <video src="output-examples/english-og.mp4" controls width="280"></video><br />[**Watch / Download MP4 (32.6 MB · 59.8s)**](output-examples/english-og.mp4) | <video src="output-examples/hindi-dubbed.mp4" controls width="280"></video><br />[**Watch / Download Hindi Dubbed MP4 (15.1 MB · 37.4s)**](output-examples/hindi-dubbed.mp4) |
+| <video src="https://www.image2url.com/r2/default/videos/1794419111104-12b370de-1a53-460d-8868-e46e2386898d.mp4" controls width="280"></video><br />[**Watch / Download MP4 (32.6 MB · 59.8s)**](https://www.image2url.com/r2/default/videos/1794419111104-12b370de-1a53-460d-8868-e46e2386898d.mp4) | <video src="https://www.image2url.com/r2/default/videos/1794419169315-c697a08f-708d-4a72-bc56-ebeba124d7ba.mp4" controls width="280"></video><br />[**Watch / Download Hindi Dubbed MP4 (15.1 MB · 37.4s)**](https://www.image2url.com/r2/default/videos/1794419169315-c697a08f-708d-4a72-bc56-ebeba124d7ba.mp4) |
 | Active-speaker tracking with automatic `dual_split` (2 speakers) ↔ `single` (`9:16`) switching and word-highlighted `libass` captions. | Translated from English to **Hindi (`hi`)** with acoustic + visual gender detection, `gemini-3.8-flash-tts` multi-speaker voices, and `Noto Sans Devanagari` subtitles. |
 
 ---
