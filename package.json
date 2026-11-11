@@ -1,0 +1,16 @@
+{
+  "name": "openclipx",
+  "version": "1.0.0",
+  "private": true,
+  "description": "OpenClipX - Ultra-lightweight open-source AI Shorts generator (runs even under 1.5 GB RAM) with dynamic face tracking",
+  "type": "module",
+  "scripts": {
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "build": "npm --prefix backend run build && npm --prefix frontend run build",
+    "start": "node --no-warnings backend/dist/index.js",
+    "test": "npm --prefix backend test",
+    "benchmark:ram": "node --no-warnings backend/dist/scripts/benchmarkRam.js"
+  }
+}
+

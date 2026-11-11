@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/types.ts","./src/api/client.ts","./src/components/Layout.tsx","./src/components/ScoreBreakdownBar.tsx","./src/components/StatusBadge.tsx","./src/pages/ClipResultsPage.tsx","./src/pages/CreateProjectPage.tsx","./src/pages/DashboardPage.tsx","./src/pages/ProcessingPage.tsx","./src/pages/VideoEditorPage.tsx"],"version":"5.9.3"}
